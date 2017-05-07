@@ -103,7 +103,15 @@ body{
 }
 
 
+/*Progress Bar*/
+.progress-bar{
+  background-color: #333333;
+}
 
+/*Website Overview*/
+.dash-box{
+  text-align: center;
+}
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     color: #ffffff;
