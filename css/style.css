@@ -112,6 +112,19 @@ body{
 .dash-box{
   text-align: center;
 }
+
+/*footer*/
+#footer{
+  background-color: #333333;
+  color: #ffffff;
+  text-align: center;
+  padding: 30px;
+  margin-top: 30px;
+  font-size: 120%;
+}
+
+
+
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     color: #ffffff;
